@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132384027579",
+    "project_id": "amaf-ebf57",
+    "storage_bucket": "amaf-ebf57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132384027579:android:f794d20dd7df50ce510a9e",
+        "android_client_info": {
+          "package_name": "com.mm_aragao.amaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgzjTXNS-C8hi9ndAAdVK-yXN0nm_7RQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
